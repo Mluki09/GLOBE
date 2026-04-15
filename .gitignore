@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Build output
+build/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime error logs
+pnpm-debug.log*
+
+# Expo logs
+.expo/
+
+# Buck files
+buck-out/
+*.buckconfig
+
+# Other
+.DS_Store
+*.jks
+*.keystore
+
+# Directory for instrumented libs
+android/iml/
+
+# Gradle files
+.gradle/
+
+# Local configurations
+.env
